@@ -1,0 +1,12 @@
+.home{
+    display: flex;
+    justify-content: center;
+}
+.home-coverpage img{
+    display: flex;
+    justify-content: center;
+    height: 1000PX;
+}
+.home p{
+    align-items: center;
+}
